@@ -1,4 +1,5 @@
 Emotion Detection from Video using Deep Learning 🎭🎥
+
 This project analyzes the emotions of people in a video using DeepFace and OpenCV, then overlays a summary of detected emotions onto the final output video. The processed video and an emotion frequency report are both downloadable.
 
 🔹 Features
@@ -21,8 +22,7 @@ Count and summarize detected emotions.
 Overlay the summary onto the entire video.
 Convert the output to MP4 format.
 Download the processed video and emotion report.
-🚀 Installation & Usage
-🔧 Install Dependencies
+🚀 Installation & Usage🔧 Install Dependencies
 bash
 Copy
 Edit
